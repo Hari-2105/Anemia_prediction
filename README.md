@@ -99,7 +99,9 @@ python app.py
 - ✅ Epoch-wise training vs. validation accuracy plots
 <img width="445" height="238" alt="image" src="https://github.com/user-attachments/assets/96b3599d-8e27-4548-aace-3e76d30b3da4" />
 
+
 - ✅ Real-time classification via webcam feed (OpenCV + IP Webcam) **Palm**
+  
 <img width="248" height="135" alt="image" src="https://github.com/user-attachments/assets/05976ffc-af8e-4acb-a168-8c4c3f95da5f" />  <img width="196" height="143" alt="image" src="https://github.com/user-attachments/assets/13cb8571-cdd2-4cc2-a6a0-937f1f602d0e" />
 <img width="438" height="107" alt="image" src="https://github.com/user-attachments/assets/d17902dc-c28b-47f7-9490-41d976890217" />
 
