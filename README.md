@@ -103,7 +103,21 @@ python app.py
 - ✅ Real-time classification via webcam feed (OpenCV + IP Webcam) **Palm**
   
 <img width="248" height="135" alt="image" src="https://github.com/user-attachments/assets/05976ffc-af8e-4acb-a168-8c4c3f95da5f" />  <img width="196" height="143" alt="image" src="https://github.com/user-attachments/assets/13cb8571-cdd2-4cc2-a6a0-937f1f602d0e" />
+
 <img width="438" height="107" alt="image" src="https://github.com/user-attachments/assets/d17902dc-c28b-47f7-9490-41d976890217" />
+
+- ✅ Real-time classification by uploading photos via detected by roboflow API  **Conjunctiva**
+
+<img width="211" height="122" alt="image" src="https://github.com/user-attachments/assets/bbb8c9cd-bc8e-45ab-8ffd-b697fa95a089" /> <img width="216" height="132" alt="image" src="https://github.com/user-attachments/assets/d8542824-e213-48a7-8bd0-04d430abd696" />
+
+<img width="450" height="110" alt="image" src="https://github.com/user-attachments/assets/ae62456f-9f88-463f-a371-e77e65f9f316" />
+
+- ✅ Real-time classification by uploading photos via detected by roboflow API  **Nail**
+
+  <img width="235" height="99" alt="image" src="https://github.com/user-attachments/assets/e6048cca-195c-4007-ae7d-91b4ccd456dd" /> <img width="99" height="97" alt="image" src="https://github.com/user-attachments/assets/bb89ada3-fc2a-4d0b-a5ac-4a3fde98758c" /> <img width="101" height="94" alt="image" src="https://github.com/user-attachments/assets/d417f9e4-f706-47d6-80ec-a9ba94301de7" />
+
+<img width="437" height="109" alt="image" src="https://github.com/user-attachments/assets/f463ebea-626e-47f4-a3f2-733973261812" />
+
 
 
 
